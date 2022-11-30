@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @earlyster
 - 👀 I’m interested in ...
    - Full stack development using NextJs
+   - 3d internet and metaverse developments that work cross VR,AR,Mobile, and Desktop!
    - Chat bots and application integration into smart speakers
    - Helping others learn Javascript and Full stack development
    - Cloud Native development (and portability across platforms)
    - Beautiful data visualizations and geometric artwork
    - write3 digital collectible (NFT) books - web3 + writing + unique + unlockable content + decentralized
-  
 
 - 🌱 I’m currently learning ...
    - Different ways to deploy a NextJS app (Amplify, Vercel, Permaweb)
